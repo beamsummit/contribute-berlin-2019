@@ -1,10 +1,12 @@
+
+
 Example searches:
 https://bit.ly/2XSIxfK
 and
 https://issues.apache.org/jira/issues/?filter=12343676
 
 
-Individual Candidate Issues:
+Individual Candidate Issues (many of these might have already been addressed, if addressing after the workshop, though check them out -- If I'm really good, I'll keep pruning this, but that is unlikely):  
 
 https://issues.apache.org/jira/browse/BEAM-7595
 
