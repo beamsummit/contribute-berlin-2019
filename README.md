@@ -1,5 +1,4 @@
-# contribute-berlin-2019
-Introduction to Contributing Workshop
+# Introduction to Contributing Workshop
 
 ![Alt text](images/beamberlinbanner.jpg)
 
