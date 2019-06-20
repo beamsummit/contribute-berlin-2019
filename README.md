@@ -1,6 +1,8 @@
 # contribute-berlin-2019
 Introduction to Contributing Workshop
 
+![Alt text](images/beamberlinbanner.jpg)
+
 How to start contributing to Beam!  
 
 Do also see Aizhamal's and Riona's talk that led up to this one, it is found [here](link-to-video-once-available)
