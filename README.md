@@ -3,7 +3,7 @@ Introduction to Contributing Workshop
 
 How to start contributing to Beam!  
 
-|-----|----|
-|1015 - 1100 | Presentation on contributing, getting setup |
-| 1100 - 1200 | Working through a PR |
-|---|---|
+| TIME | Activity |
+| :--- | :--- |
+| 10:15 - 11:00 | Presentation on contributing, getting setup |
+| 11:00 - 12:00 | Working through a PR |
